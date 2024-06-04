@@ -2,7 +2,7 @@
   
   ## 구성원
   
-  | <a href="https://github.com/dduneon"><img src="https://github.com/dduneon.png" width="100px"><br/>김준현</a> | <a href="https://github.com/kys1651"><img src="https://github.com/kys1651.png" width="100px"><br/>기무용수</a> |
+  | <a href="https://github.com/dduneon"><img src="https://github.com/dduneon.png" width="100px"><br/>김준현</a> | <a href="https://github.com/kys1651"><img src="https://github.com/kys1651.png" width="100px"><br/>김용수</a> |
   |-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 
 </div>
